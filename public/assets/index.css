@@ -1,0 +1,25 @@
+*{
+    /* background-color: #4a5568; */
+    background-color: #2d3436;
+    font-family: "Dubai Medium";
+}
+.layout{
+
+}
+.basic-margin{
+    margin-top: 6.5rem;
+}
+.basic-width{
+    max-width: 40rem;
+}
+.row-background{
+    background-color: white;
+}
+.text-justify{
+    text-align: justify;
+}
+/* .list-contents{
+    height: 100vh;
+    overflow: scroll;
+} */
+
